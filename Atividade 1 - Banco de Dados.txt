@@ -92,7 +92,7 @@ Resposta: A loja vendeu mais cadernos em Junho.
 A loja teve menos vendas em Abril 
 
 b) Indique qual produto apresentou crescimento.
-Resposta: O caderno.
+Resposta: O caderno
 
 c) Indique qual produto apresentou queda.
 Resposta: A mochila
