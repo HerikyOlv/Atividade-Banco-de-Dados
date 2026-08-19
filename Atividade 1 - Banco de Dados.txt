@@ -1,0 +1,100 @@
+LISTA DE EXERCÍCIOS
+Fundamentos de Banco de Dados
+Nome: Heriky Pereira de Oliveira - Turma: Ads 1º semestre
+Data: 19 / 08 / 2026
+Monitor: Rafael Bernardes
+ORIENTAÇÕES
+• Responda às questões com suas próprias palavras.
+• Nas atividades práticas, observe os dados e justifique suas conclusões.
+• Em caso de dúvida, procure o monitor durante o horário de monitoria.
+
+Parte 1 — Questões abertas
+
+1. Dado e informação
+Explique, com suas palavras, a diferença entre dado e informação. Apresente um exemplo diferente dos
+utilizados em aula.
+
+Resposta: O dado é um registro que pode ser um nome, valor ou qualquer coisa com sentido isolado, sem contexto o suficiente para realizar uma 
+mensagem completa. Já a informação são os dados juntos de um contexto que sendo organizado e bem interpretado se tornam uma informação boa o suficiente para uma
+análise ou decisão. 
+Exemplo:
+ Dados: Luan de Oliveira e 2015.
+ Informação: Luan de Oliveira é um skatista profissional brasileiro de destaque internacional, que conquistou importantes resultados em 
+competições de skate street league em 2015.
+Dados: Fatos isolados.
+Informação: dados organizados que nos ajudam a entender quem é Luan e sua importância no skate.
+
+2. Construção do conhecimento
+De que maneira uma informação pode contribuir para a construção do conhecimento e para a tomada de
+decisões? Apresente uma situação simples.
+Resposta: Vamos pensar que você trabalha em uma escola como professor, se você organizar os dados em sua planilha de forma organizada, 
+você consegue ter informações organizadas, e com isso você sabe a nota de cada aluno e quais alunos tem mais dificuldades, sejam 
+com notas das matérias ou com faltas. Com isso você sabe em qual matéria tentar ajudar mais o aluno.
+
+3. Banco de dados
+Imagine uma empresa que ainda registra clientes, produtos e vendas em arquivos separados. Quais benefícios
+ela poderia obter ao organizar esses dados em um banco de dados?
+Resposta: Ao organizar por contexto e relações entre eles, a empresa consegue localizar, atualizar, relacionar e até mesmo proteger
+esses dados com mais facilidade e velocidade também.
+
+4. Banco de dados e SGBD
+Explique a diferença entre banco de dados e SGBD. Utilize um exemplo para demonstrar a função de cada um.
+Resposta: Enquanto o banco de Dados é uma coleção organizada de dados relacionados, armazenados para consulta, e facilita na atualização
+por uso de sistemas, claro apenas para pessoas autorizadas, o SGBD é o software que serve para criar, organizar, consultar, atualizar, proteger e 
+administrar esse banco de dados.
+Exemplo: um exemplo de um banco de dados com alguns skatistas:
+ID   Nome          Pais      Idade    Modalidade    Titulos
+1    Luan de Olv   Brasil    35       Street        1
+2    Rayssa Leal   Brasil    17       Street        3
+3    Nyjah Huston  EUA       31       Street        10
+
+Alguns exemplos agora de SGBD: MySQL, PostgreSQL e Oracle Database.
+
+5. Arquivos tradicionais
+Quais problemas podem ocorrer quando diferentes setores de uma organização mantêm arquivos separados
+com os mesmos dados?
+Resposta: Pode ocorrer vários problemas diferentes, dependendo onde for e qual tipo de dado estiver guardado, por exemplo, inconsistência dos dados,
+como se um setor atualizar uma informação tipo um telefone, mas outro não. Tem o desperdício de espaço, se tiverem várias cópias dos mesmos dados, 
+vai ocupar mais armazenamento. Maior risco de erro, pois quanto mais um dado é digitado ou alterado, maior a possibilidade de haver erros. Entre outros.
+--------------------------------------------------------------------
+Parte 2 — Atividades práticas
+6. Classificando dados e informações
+Classifique cada item como DADO ou INFORMAÇÃO:
+
+Item    Conteúdo                                                    Classificação
+a       99.999                                                      Dado
+b       Londrina                                                    Dado
+c       12,8                                                        Dado
+d       A loja vendeu 1.520 produtos durante o mês de julho.        Informação
+e       A consulta está marcada para 15 de agosto, às 14h.          Informação
+f       01/07/1981                                                  Dado
+g       35% dos funcionários são mulheres.                          Informação
+h       R$ 250,00                                                   Dado
+i       O produto custa R$ 250,00.                                  Informação
+j       A empresa possui 1.842 funcionários.                        Informação
+
+Depois, escolha dois dados isolados e acrescente um contexto para transformá-los em informações.
+Resposta: 
+Ronaldo nasceu em 01/07/1981.   Letra (f) 
+Hoje a Daniela vendeu R$ 250,00 reais. Letra (h)
+
+7. Da informação à decisão
+Uma loja registrou as seguintes vendas:
+
+Produto           Abril        Maio        Junho
+Caderno           80           95          120
+Mochila           40           35          25
+Estojo            55           60          58
+Com base nos dados:
+
+a) Escreva duas informações que podem ser identificadas.
+Resposta:
+
+b) Indique qual produto apresentou crescimento.
+Resposta:
+
+c) Indique qual produto apresentou queda.
+Resposta:
+
+d) Proponha uma decisão que a loja poderia tomar a partir dessas informações.
+Resposta:
