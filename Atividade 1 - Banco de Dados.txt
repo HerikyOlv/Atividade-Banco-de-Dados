@@ -88,13 +88,15 @@ Estojo            55           60          58
 Com base nos dados:
 
 a) Escreva duas informações que podem ser identificadas.
-Resposta:
+Resposta: A loja vendeu mais cadernos em Junho.
+A loja teve menos vendas em Abril 
 
 b) Indique qual produto apresentou crescimento.
-Resposta:
+Resposta: O caderno.
 
 c) Indique qual produto apresentou queda.
-Resposta:
+Resposta: A mochila
 
 d) Proponha uma decisão que a loja poderia tomar a partir dessas informações.
-Resposta:
+Resposta: Investir mais em cadernos, e dar uma promoção ou descontos na mochila.
+
